@@ -5,4 +5,4 @@ Discord : https://discord.gg/QW4TDJP
 
 Vidéo : https://youtu.be/gN16iW6-D3M
 
-To setup the progressbar you need to edit the .CSS at the bottom.
+To setup the progressbar you need to edit the ./css/style.css at the bottom.
